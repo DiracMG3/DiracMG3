@@ -1,7 +1,7 @@
 # Hello there👋, I’m Yi Hu@DiracMG3.
 I'm a PhD student at SEU.
 
-[![Yi Hu's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiracMG3&show_icons=true&theme=buefy)](https://github.com/DiracMG3/github-readme-stats)
+[![Yi Hu's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiracMG3&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 - :panda_face: My previous work is in theoritical physics, and now I'm working on quantum computing. 
 - :hatching_chick: Recently my research focuses on circuit optimization, 
