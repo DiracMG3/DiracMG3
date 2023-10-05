@@ -1,5 +1,5 @@
 # Hello there👋, I’m Yi Hu@DiracMG3.
-I'm a PhD student at SEU.
+I'm a PhD student in quantum computing at SEU.
 
 [![Yi Hu's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiracMG3&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
